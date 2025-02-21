@@ -19,11 +19,6 @@ To set up this project, follow these steps:
     venv\Scripts\activate  # On Windows
     ```
 
-3. **Install Dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## 🚀 Usage
 To run the object detection model, execute the following:
 
